@@ -1,4 +1,4 @@
-Cucumber-BDD-Selenium
+Cucumber-Selenium-Maven
 =====================
 
 Demo on Cucumber Behavior Driven Development via Maven and JUnit for Selenium Newbies
